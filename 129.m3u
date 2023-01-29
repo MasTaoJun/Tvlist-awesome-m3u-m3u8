@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,有线新闻台
+http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+#EXTINF:-1,有线财经台
+http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
+#EXTINF:-1,有线直播台
+http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+#EXTINF:-1,美亚电影台
+http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+#EXTINF:-1,纬来戏剧台
+http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1,纬来电影台
+http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1,莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1,好莱坞电影
+http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1,HBO HD
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1,HBO家庭影院
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1,HBO原创电影
+http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1,HBO强档影院
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1,探索频道HD
+http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1,KBS1 HD
+http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1,KBS2 HD
+http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1,MBC HD
+http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+#EXTINF:-1,SBS HD
+http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
+#EXTINF:-1,4GTV謝安琪新聞TVBS新聞
+http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞民視新聞
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞三立財經
+http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞中天新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞東森新聞
+http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞東森財經
+http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞華視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1,4GTV謝安琪新聞中視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1,星空卫视
+http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+#EXTINF:-1,广东体育
+http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
+#EXTINF:-1,翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1,明珠台
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1,CCTV4K
+http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
+#EXTINF:-1,CCTV16-4K
+http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
+#EXTINF:-1,广东综艺4K
+http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
